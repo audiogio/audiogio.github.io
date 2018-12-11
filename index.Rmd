@@ -1,3 +1,14 @@
 ---
 title: "INPUT"
 ---
+Canal | Instrumento  | Microfono     | Stand
+------- | ---------------- | ---------- | ---------:
+1  | Kick In | Shure Beta91 | Floor
+2  | Kick Out | Audix D6 | Short Boom
+3  | Snare Top Dyn | M80 | Short Boom
+4  | Snare Top Con | 12Blue | Short Boom
+5  | HiHat | 12Green | Boom
+6  | Tom 1 | TBone | Clamp
+7  | Tom 2 | TBone | Short Boom
+
+

@@ -1,5 +1,4 @@
 ---
-title: "About This Website"
+title: "OUTPUT"
 ---
-
-More about this website.
+Salidas para Monitores.

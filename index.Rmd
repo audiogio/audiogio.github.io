@@ -1,5 +1,3 @@
 ---
-title: "My Website"
+title: "INPUT"
 ---
-
-Hello, Website!

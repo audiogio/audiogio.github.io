@@ -9,6 +9,9 @@ Canal | Instrumento  | Microfono     | Stand
 4  | Snare Top Con | 12Blue | Short Boom
 5  | HiHat | 12Green | Boom
 6  | Tom 1 | TBone | Clamp
-7  | Tom 2 | TBone | Short Boom
+7  | Tom 2 | TBone | Clamp
+
+
+
 
 
